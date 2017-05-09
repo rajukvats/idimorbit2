@@ -18,6 +18,7 @@
     <platform name="android">
         <preference name="android-minSdkVersion" value="14" />
         <allow-intent href="market:*" />
+          <icon src="AppIcon29x29@1x-1.png" width="29" height="29" />
     </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />
